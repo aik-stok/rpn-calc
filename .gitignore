@@ -12,6 +12,7 @@
 #----------------------------------------------------------------------------
 
 # bundler state
+.gitignore
 /.bundle
 /vendor/bundle/
 /vendor/ruby/
